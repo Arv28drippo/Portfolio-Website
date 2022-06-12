@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Website Template"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website-Template"
+	}
+}
